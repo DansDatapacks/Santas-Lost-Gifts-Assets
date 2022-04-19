@@ -1,0 +1,13 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "minecraft:item/barrier"
+    },
+    "overrides": [
+        { "predicate": { "custom_model_data": 4151000}, "model": "lostgifts:gifts/present_white_red"},
+        { "predicate": { "custom_model_data": 4151001}, "model": "lostgifts:gifts/present_red_yellow"},
+        { "predicate": { "custom_model_data": 4151002}, "model": "lostgifts:gifts/present_blue_white"},
+        { "predicate": { "custom_model_data": 4151003}, "model": "lostgifts:gifts/present_creeper_green"},
+        { "predicate": { "custom_model_data": 4151004}, "model": "lostgifts:elfager/elfager_hat_and_ears"}
+    ]
+  }

@@ -1,0 +1,22 @@
+{
+	"santa_sleigh_bells":{
+		"category":"ambient", 
+		"sounds":[
+			"lostgifts:santa_sleigh_bells"
+		]
+	},
+    "present.open":{
+		"category": "block", 
+		"sounds":[
+            {"name": "lostgifts:present/open_1"},
+            {"name": "lostgifts:present/open_2"}
+		]
+	},
+    "present.pickup":{
+		"category": "block", 
+		"sounds":[
+            {"name": "lostgifts:present/pickup_1"},
+            {"name": "lostgifts:present/pickup_2"}
+		]
+	}
+}

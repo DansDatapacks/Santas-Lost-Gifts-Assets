@@ -1,0 +1,9 @@
+{
+	"credit": "Made by DanMizu",
+	"parent": "lostgifts:gifts/present_white_red",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "lostgifts:gifts/present_blue_white",
+		"particle": "lostgifts:gifts/present_blue_white"
+	}
+}
